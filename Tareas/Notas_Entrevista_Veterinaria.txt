@@ -1,0 +1,123 @@
+NOTAS DE LA ENTREVISTA - CLÍNICA VETERINARIA
+=============================================
+
+Entrevistado: Juan Francisco Fernández (dueño y veterinario)
+Facilitador: Diego
+Duración aproximada: 12 minutos
+
+
+1. PERFIL DEL STAKEHOLDER Y USUARIOS
+------------------------------------
+- Clínica veterinaria pequeña, ubicada en un barrio junto al estadio Monumental.
+- Atiende sobre todo perros y gatos: consultas, vacunas, desparasitaciones y emergencias.
+- Personal:
+    * Juan Francisco: veterinario y administrador.
+    * Matthew: veterinario.
+    * Andrew: recepcionista. Contesta llamadas y WhatsApp, agenda turnos y cobra.
+- Un veterinario atiende en la mañana y el otro en la tarde.
+- Muchos clientes son personas de la tercera edad con poco manejo de la tecnología,
+  por eso prefieren llamar.
+
+
+2. PROBLEMA
+-----------
+- Los turnos se anotan a mano en un cuaderno, sin ningún sistema.
+- Hay turnos cruzados: como entran por dos canales (llamada y WhatsApp), el
+  recepcionista a veces anota a dos clientes a la misma hora. La semana pasada
+  coincidieron una señora con su perro y un señor con su gato, y eso molestó a
+  los clientes.
+- Tienen unas 1800 fichas en cuadernos, con mascotas repetidas, fallecidas o que
+  ya no vienen. Cuesta encontrar una ficha, y a veces la misma mascota se vuelve
+  a registrar.
+- No hay un cuadre automático de la caja al final del día.
+
+
+3. ENTORNO
+----------
+- Horario: lunes a viernes de 8:00 a 18:00; sábados hasta el mediodía; domingos
+  cerrado.
+- Equipos: solo el celular del recepcionista. No hay computadora.
+- Canales de los clientes: llamada telefónica y WhatsApp, sobre todo WhatsApp.
+  No se puede obligar a usar un solo canal.
+- Volumen: 15 a 20 turnos al día (unos 10 en la mañana y 10 en la tarde); los
+  sábados, 6 a 7 casos.
+- Duración: una consulta dura 30 minutos y una vacunación 15.
+- Pagos: efectivo y transferencia. Casi no aceptan tarjeta.
+
+
+4. PROCESO ACTUAL
+-----------------
+- Agendamiento: el cliente llama o escribe; el recepcionista revisa las horas
+  libres en el cuaderno y propone una; si el cliente acepta, anota el nombre de
+  la mascota y el teléfono.
+- Prioridad: se atiende por orden de llegada.
+- Emergencias: pasan primero. El turno afectado se mueve dentro del mismo día si
+  hay espacio; si no, al día siguiente.
+- Rutina diaria: a las 8:00 el recepcionista revisa los turnos del día y responde
+  los mensajes de la noche anterior. Durante el día atiende llamadas y WhatsApp.
+  A las 18:00 cuenta el efectivo y hace el cierre.
+- Datos que se registran:
+    * Mascota: nombre, raza, peso, motivo de consulta, tratamiento y
+      desparasitaciones previas, todo en una ficha.
+    * Dueño: nombre, cédula, teléfono y dirección.
+- Recordatorios:
+    * Desparasitaciones y vacunas cada 3 o 6 meses, según el caso.
+    * Una semana antes de que toque, se avisa al dueño para que saque turno.
+    * Un día antes del turno se le recuerda por WhatsApp.
+
+
+5. SOLUCIÓN ESPERADA
+--------------------
+- Agendar turnos sin que se crucen.
+- Mover turnos con facilidad cuando llega una emergencia.
+- Tener una ficha digital por mascota con su historial.
+- Enviar recordatorios automáticos de vacunas y turnos por WhatsApp.
+- Ver un reporte diario de lo cobrado, separado en efectivo y transferencia, para
+  cuadrar la caja.
+- Que la información no se pierda y sea más ordenada y legible.
+
+
+6. DECISIONES Y ACUERDOS
+------------------------
+- No se pueden eliminar las llamadas como canal: el sistema debe permitir
+  registrar turnos que llegan por teléfono.
+- El sistema debe funcionar en un celular, porque no hay computadora.
+- Las emergencias tienen prioridad sobre los turnos agendados.
+
+
+LAS 3 NECESIDADES PRIORITARIAS
+==============================
+1. Agenda de turnos sin cruces. Un solo registro para los dos canales, que
+   permita reprogramar cuando entra una emergencia.
+2. Recordatorios automáticos por WhatsApp. Para vacunas y desparasitaciones una
+   semana antes de que toquen, y para turnos un día antes.
+3. Ficha digital de cada mascota y su dueño. Que reemplace los cuadernos y evite
+   fichas perdidas o duplicadas.
+
+Un cuarto punto, menos prioritario: el reporte diario de caja por forma de pago.
+
+
+DATOS ÚTILES PARA LOS REQUERIMIENTOS NO FUNCIONALES
+===================================================
+- Debe funcionar en un celular
+    -> Portabilidad (requerimiento de producto)
+- Clientes mayores con poco manejo tecnológico; el recepcionista atiende varios
+  canales a la vez
+    -> Usabilidad
+- 15 a 20 turnos al día; bloques de 30 o 15 minutos
+    -> Rendimiento / capacidad
+- Se guardan cédula, dirección y teléfono de los clientes
+    -> Seguridad / privacidad (requerimiento externo, legal)
+- Recordatorio una semana antes y un día antes
+    -> Requerimiento de producto (fiabilidad)
+- Debe estar disponible de 8:00 a 18:00 y los sábados hasta el mediodía
+    -> Disponibilidad
+
+
+LO QUE FALTÓ PREGUNTAR
+======================
+- Seguridad: quién puede ver o editar las fichas. No se preguntó.
+- Qué hacer con las 1800 fichas antiguas: si se digitalizan todas o solo las de
+  mascotas activas.
+- Qué pasa si el sistema o el internet fallan en un día de atención.
+- Si los veterinarios también usarán el sistema o solo el recepcionista.
