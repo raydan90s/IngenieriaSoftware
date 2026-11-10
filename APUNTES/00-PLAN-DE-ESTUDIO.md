@@ -14,9 +14,13 @@
 | 7 | **Lectura #3** Ingeniería de requerimientos | Robertson caps. 1, 10, 11, 14, 16, 17 | ⬜ |
 | 8 | **Lectura #4** Requerimientos | Wiegers caps. 10, 11 + Leffingwell caps. 6, 7 | ⬜ |
 | 9 | Repaso general + simulacro del **Examen 1** (01b + 02 + 03a) | `09-repaso-examen-1.md` | ✅ |
-| 10 | **Gestión de proyectos, stakeholders, cronogramas (Gantt, redes AoA, camino crítico)** + adelanto de time/resource-limited | Sesión 11 (`Session 11.vtt`) + `06ProjectManagement.pdf` + `07Scheduling...pdf` → `10-gestion-de-proyectos-y-cronogramas.md` | ✅ (falta completar §8 tras la clase del lunes 9-nov) |
+| 10 | **Gestión de proyectos, stakeholders, cronogramas (Gantt, redes AoA, camino crítico)** + adelanto de time/resource-limited | Sesión 11 (`Session 11.vtt`) + `06ProjectManagement.pdf` + `07Scheduling...pdf` → `10-gestion-de-proyectos-y-cronogramas.md` | ✅ |
+| 11 | **Recursos y scheduling: time-limited (smoothing, recurso pico) y resource-limited (4 reglas)** | Sesión 12 (`Meeting in _General_ .vtt`, lunes 9-nov) + `07Scheduling...pdf` → `11-asignacion-de-recursos.md` | ✅ |
+| 12 | **Práctica: taller AoA + recursos resuelto** (Secciones A y B) | `Tareas/TallerActivityOnArrow-2.0.pdf` → `12-practica-taller-aoa-recursos.md` | ✅ (resolver a mano primero) |
 
 > 8-nov: en la Sesión 11 el profe anunció una **2da "pequeña evaluación" (lección) el miércoles 11-nov-2026**. Entra: roles, stakeholders (**dibujar mapa de stakeholders** a partir de un párrafo), scheduling, Gantt, **red AoA con mínimo de dummies + forward/backward pass + float + camino crítico + leyenda**, y lo del lunes 9-nov (time-limited / resource-limited scheduling).
+
+> 9-nov (Sesión 12): el profe confirmó el formato del ejercicio del examen: tabla (dependencias, duración, personal) → **(a)** red AoA → **(b)** gráfico **unsmoothed** y **recurso pico** → **(c)** **smoothing**. Redes de **10–12 nodos** como máximo; la **convención (5 elementos)** da puntos. Repasar: Pasos 10, 11 y 12.
 
 > 20-oct: según el usuario, el **Examen 1 cubre 01b, 02 y 03a**. Scrum (03b) "en teoría no entra". Los pasos 4 a 8 quedan para el control de lectura.
 

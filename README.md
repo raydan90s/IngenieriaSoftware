@@ -12,6 +12,8 @@ ESPOL · FIEC · II PAO 2026
 ```
 INGENIERIA-DE-SOFTWARE/
 ├── controles-de-lectura.md   Lecturas recomendadas que entran en los controles de lectura
+├── APUNTES/                  Apuntes de estudio por paso (ver 00-PLAN-DE-ESTUDIO.md); 11 y 12 = recursos/scheduling + taller resuelto
+├── Tareas/                   Talleres y entrevistas (incluye TallerActivityOnArrow-2.0.pdf)
 ├── LIBROS/                   Bibliografía en PDF (Robertson, Wiegers, Cohn, Scrum Institute)
 └── CLASES/
     ├── SEMANA-1/             Políticas del curso + procesos de software (PDF + transcripción sesión 2)
@@ -20,7 +22,7 @@ INGENIERIA-DE-SOFTWARE/
     ├── SEMANA-4/             Elicitación y documentación de requerimientos
     ├── SEMANA-5/             Especificación y validación de requerimientos + ISO/IEC/IEEE 29148:2018
     ├── SEMANA-6/             Gestión de proyectos
-    ├── SEMANA-7/             Planificación y asignación de recursos
+    ├── SEMANA-7/             Planificación y asignación de recursos (PDF + transcripción sesión 12)
     ├── SEMANA-8/             Medición y estimación de software
     ├── SEMANA-9/             Gestión de riesgos
     ├── SEMANA-10/            Método del valor ganado (EVM)

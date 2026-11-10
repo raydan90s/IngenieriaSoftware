@@ -26,7 +26,7 @@
 | Scheduling, fases, milestones, baseline | Sesión 11 | Definiciones, ejemplos de milestone |
 | Gantt (y sus limitaciones) | Sesión 11 | Ventajas/limitaciones vs. redes |
 | **Red activity-on-arrow (AoA)** | Sesión 11 | 🎤 "Típica configuración" del examen: tabla de actividades → dibujar red con **mínimo de dummies** → forward/backward pass → **float** → **camino crítico** → **leyenda** |
-| Time-limited / resource-limited scheduling | Lunes 9-nov (virtual) | Ver §8 (adelanto desde diapositivas) |
+| Time-limited / resource-limited scheduling | Sesión 12, lunes 9-nov (virtual) | Gráfico unsmoothed → **recurso pico** → smoothing → reglas de resource-limited. Ver [Paso 11](11-asignacion-de-recursos.md) |
 
 ---
 
@@ -309,7 +309,9 @@ Flechas: A 1→2 · B 1→5 · dummy 5→2 · D 2→3 · F 2→4 · C 1→3 · E
 
 ---
 
-## 8. Recursos y scheduling (📄 se ve el **lunes 9-nov**; adelanto desde las diapositivas)
+## 8. Recursos y scheduling (resumen)
+> ✅ **Completado tras la clase del lunes 9-nov (Sesión 12).** La versión completa, con lo que dijo el profe, el smoothing paso a paso y más ejemplos, está en **[Paso 11](11-asignacion-de-recursos.md)**. El taller resuelto para practicar está en **[Paso 12](12-practica-taller-aoa-recursos.md)**.
+
 - Los recursos son **finitos** (personas, instalaciones, flujo de caja) → a veces conviene programar las actividades no "lo antes posible", sino cuando se **usen mejor los recursos**.
 
 | | **Time-limited scheduling** | **Resource-limited scheduling** |
@@ -383,5 +385,6 @@ Si tienes **ambas** limitaciones: aplica un enfoque y luego el otro buscando alg
 ## ✅ Checklist para el miércoles
 - [ ] Practicar **2–3 mapas de stakeholders** con los enlaces de la diapositiva (projectmanager.com "5 stakeholder map examples", NOAA).
 - [ ] Rehacer los **Ejemplos 1–3** a mano: red → mínimo de dummies → forward → backward → float → camino crítico → **leyenda**.
-- [ ] Ver la clase del **lunes 9-nov** (time/resource-limited) y completar §8 con lo que diga el profe.
+- [x] Ver la clase del **lunes 9-nov** (time/resource-limited) → [Paso 11](11-asignacion-de-recursos.md).
+- [ ] Resolver a mano el **taller** de la Sesión 12 y comparar con [Paso 12](12-practica-taller-aoa-recursos.md).
 - [ ] Leer Field & Keller caps. 3 y 4, y Robertson cap. 3 (si los consigues).
