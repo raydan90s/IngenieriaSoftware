@@ -17,6 +17,7 @@
 | 10 | **Gestión de proyectos, stakeholders, cronogramas (Gantt, redes AoA, camino crítico)** + adelanto de time/resource-limited | Sesión 11 (`Session 11.vtt`) + `06ProjectManagement.pdf` + `07Scheduling...pdf` → `10-gestion-de-proyectos-y-cronogramas.md` | ✅ |
 | 11 | **Recursos y scheduling: time-limited (smoothing, recurso pico) y resource-limited (4 reglas)** | Sesión 12 (`Meeting in _General_ .vtt`, lunes 9-nov) + `07Scheduling...pdf` → `11-asignacion-de-recursos.md` | ✅ |
 | 12 | **Práctica: taller AoA + recursos resuelto** (Secciones A y B) | `Tareas/TallerActivityOnArrow-2.0.pdf` → `12-practica-taller-aoa-recursos.md` | ✅ (resolver a mano primero) |
+| 13 | **⭐ Plan de repaso para la lección del 11-nov** (lunes noche 1 h + martes tarde) + hoja de memoria + simulacro + mapas de stakeholders | `13-plan-repaso-leccion-2.md` | ▶️ empezar aquí |
 
 > 8-nov: en la Sesión 11 el profe anunció una **2da "pequeña evaluación" (lección) el miércoles 11-nov-2026**. Entra: roles, stakeholders (**dibujar mapa de stakeholders** a partir de un párrafo), scheduling, Gantt, **red AoA con mínimo de dummies + forward/backward pass + float + camino crítico + leyenda**, y lo del lunes 9-nov (time-limited / resource-limited scheduling).
 
